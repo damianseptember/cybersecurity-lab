@@ -52,3 +52,16 @@ Results:
 This confirms successful connectivity between the attacker machine (Kali Linux) and the target machine (Ubuntu) within the virtual lab environment.
 - Practice vulnerability scanning
 - Learn web server scanning
+## Screenshots
+
+### Ubuntu IP Address
+![Ubuntu IP](../screenshots/ubuntu-ip-address.png)
+
+### Nmap SYN Scan
+![Nmap SYN Scan](../screenshots/nmap-syn-scan.png)
+
+### Service Detection Scan
+![Service Detection](../screenshots/nmap-service-detection.png)
+
+### Advanced Scan
+![Advanced Scan](../screenshots/nmap-advanced-scan.png)
